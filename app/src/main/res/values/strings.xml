@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wake UP</string>
+    <string name="about">This app is used to wake you up.If anyone has slept with his/her phone on silent,then he or she may not be contactable in Emergercy. So the person worrying can send a text message "WAKE UP" on your
+phone,then your phone will change to ringer mode and will play a sound to alert you or wake you UP.You can also find your phone if it is misplaced in silent mode.
+The best part about this app is that you do not need active Internet connection to run this.You can also have a restriction to give access to this WAKE UP to some of your contacts.
+.You can also choose your favourite ringtone to play. </string>
+</resources>
